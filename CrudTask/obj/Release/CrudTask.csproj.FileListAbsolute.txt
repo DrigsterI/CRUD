@@ -1,0 +1,10 @@
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\bin\Release\CrudTask.exe.config
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\bin\Release\CrudTask.exe
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\bin\Release\CrudTask.pdb
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\obj\Release\CrudTask.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\obj\Release\CrudTask.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\obj\Release\CrudTask.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\obj\Release\CrudTask.exe
+C:\Users\Gabriel\source\repos\CrudTask\CrudTask\obj\Release\CrudTask.pdb
