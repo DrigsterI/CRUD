@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hardwares>
+  <Hardware Manufacturer="MSI">
+    <Name>GeForce® GTX</Name>
+    <Model>1070</Model>
+  </Hardware>
+  <Hardware Manufacturer="MSI">
+    <Name>GeForce® GTX</Name>
+    <Model>1070</Model>
+  </Hardware>
+  <Hardware Manufacturer="MSI">
+    <Name>GeForce® GTX</Name>
+    <Model>1070</Model>
+  </Hardware>
+  <Hardware Manufacturer="MSI">
+    <Name>GeForce® GTX</Name>
+    <Model>1070</Model>
+  </Hardware>
+</Hardwares>
